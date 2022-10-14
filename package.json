@@ -1,0 +1,27 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project (Build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasiu15/node-simple-api.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Alfred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasiu15/node-simple-api/issues"
+  },
+  "homepage": "https://github.com/wasiu15/node-simple-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
